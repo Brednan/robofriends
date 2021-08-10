@@ -1,0 +1,14 @@
+.labeled{
+    font-size: 18px;
+}
+
+.Card{
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #00ff88;
+}
+
+.Card:hover{
+    box-shadow: 0px 5px 9px black;
+}

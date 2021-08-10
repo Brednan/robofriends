@@ -1,0 +1,24 @@
+.main{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 40px;
+    position: relative;
+    left: 40px;
+    top: 150px;
+    width: 1860px;
+}
+
+@font-face {
+    font-family: "OriginTech";
+    src: url("./Fonts/OriginTech_personal_use.woff") format("woff");
+}
+
+.title{
+    position: relative;
+    left: 645px;
+    width: 1000px;
+    font-family: "OriginTech";
+    color:#00ff88;
+    text-shadow: 0px 2px 4px black;
+    font-size: 80px;
+}
